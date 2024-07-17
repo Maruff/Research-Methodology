@@ -1,4 +1,4 @@
-### Chapter 2: Basics of Business Research
+## Chapter 2: Basics of Business Research
 
 **Introduction**
 
