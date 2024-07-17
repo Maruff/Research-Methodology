@@ -61,3 +61,35 @@ Here are some suggested images that can complement the content on research:
 3. **Data Analysis:**
 
 These images can visually reinforce the concepts of systematic investigation, empirical evidence, and logical reasoning in research. Adjust the links as per your preference or availability of specific images related to research methodology.
+
+### 1.2 Understanding Science and Knowledge
+
+#### Science as Knowledge vs. Science as a Method
+
+**Science as Knowledge:** In its broadest sense, science refers to a systematically organized body of knowledge acquired through observation, experimentation, and reasoning. It encompasses verified facts, principles, theories, and laws that explain the natural world and its phenomena. Science as knowledge is cumulative, constantly evolving through new discoveries and revisions of existing theories.
+
+**Science as a Method:** Alternatively, science can also refer to a methodological approach to acquiring knowledge. This scientific method involves systematic observation, experimentation, hypothesis testing, and the formulation of theories based on empirical evidence. It emphasizes objectivity, reproducibility, and logical reasoning to ensure the validity and reliability of findings.
+
+**eTamil Case:** In developing eTamil, the concept of science as knowledge is applied to compile a structured framework of programming syntax specifically tailored for Indian accounting, auditing, and FinTech professionals. Here, science as a method is exemplified by the systematic approach taken to design and refine the language, ensuring it meets the linguistic and functional requirements of its users.
+
+#### Types of Knowledge
+
+**1. Empirical Knowledge:** Derived from direct observation, experience, or experimentation, empirical knowledge is based on tangible evidence and factual data. It is fundamental in scientific inquiry and forms the basis of evidence-based decision-making.
+
+**2. Theoretical Knowledge:** This type of knowledge is based on principles, concepts, and hypotheses that explain phenomena beyond direct observation. It involves abstract reasoning and logical deduction to formulate generalizations and theories.
+
+**3. Practical Knowledge:** Also known as procedural knowledge, practical knowledge is gained through hands-on experience and the application of theoretical concepts in real-world contexts. It includes skills, techniques, and know-how essential for performing tasks effectively.
+
+**4. Propositional Knowledge:** Refers to knowledge that can be expressed in statements or propositions, such as factual information, beliefs, and opinions. It can be verified or falsified based on logical reasoning or empirical evidence.
+
+**eTamil Case:** eTamil integrates these types of knowledge by offering a practical and procedural approach to coding in Tamil, leveraging empirical and theoretical knowledge to develop a robust programming language tailored for specific professional domains.
+
+#### Picture Links:
+
+1. **Scientific Method:**
+
+2. **Types of Knowledge:** 
+
+3. **Empirical Knowledge:** 
+
+These images can visually illustrate the concepts of science as knowledge versus science as a method, as well as different types of knowledge applicable in research and development contexts. Adjust the links as needed to align with specific imagery related to science and knowledge.
