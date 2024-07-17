@@ -60,7 +60,7 @@ Here are some suggested images that can complement the content on research:
 
 3. **Data Analysis:**
 
-These images can visually reinforce the concepts of systematic investigation, empirical evidence, and logical reasoning in research. Adjust the links as per your preference or availability of specific images related to research methodology.
+These images can visually reinforce the concepts of systematic investigation, empirical evidence, and logical reasoning in research. 
 
 ### 1.2 Understanding Science and Knowledge
 
@@ -92,4 +92,4 @@ These images can visually reinforce the concepts of systematic investigation, em
 
 3. **Empirical Knowledge:** 
 
-These images can visually illustrate the concepts of science as knowledge versus science as a method, as well as different types of knowledge applicable in research and development contexts. Adjust the links as needed to align with specific imagery related to science and knowledge.
+These images can visually illustrate the concepts of science as knowledge versus science as a method, as well as different types of knowledge applicable in research and development contexts.
