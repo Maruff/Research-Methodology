@@ -54,10 +54,10 @@ Research is a systematic process of investigation that aims to discover new know
 
 Here are some suggested images that can complement the content on research:
 
-1. **Research Methodology Diagram:** ![Research Methodology Diagram](https://example.com/research-methodology-diagram.jpg)
+1. **Research Methodology Diagram:** 
    
-2. **Scientific Experiment:** ![Scientific Experiment](https://example.com/scientific-experiment.jpg)
+2. **Scientific Experiment:** 
 
-3. **Data Analysis:** ![Data Analysis](https://example.com/data-analysis.jpg)
+3. **Data Analysis:**
 
 These images can visually reinforce the concepts of systematic investigation, empirical evidence, and logical reasoning in research. Adjust the links as per your preference or availability of specific images related to research methodology.
