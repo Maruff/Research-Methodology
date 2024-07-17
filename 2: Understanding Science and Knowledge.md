@@ -1,5 +1,5 @@
 ### Chapter 2: Understanding Science and Knowledge
-#### Introduction
+** Introduction **
 
 Welcome to Chapter 2 of our journey through research methodology. In this chapter, we delve into the nuanced relationship between science and knowledge, exploring their definitions, distinctions, and interconnectedness. Just as in Chapter 1, we will weave in examples and insights from the development of eTamil, a domain-specific language designed to cater to the needs of Indian accountants, auditors, and FinTech professionals.
 
