@@ -1,4 +1,4 @@
-### Chapter 1: Introduction to Research Methodology
+## Chapter 1: Introduction to Research Methodology
 
 **Introduction**
 
